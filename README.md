@@ -1,0 +1,3 @@
+# GestureRecognitionPython
+## 1. Purpose
+I have a startup called SmartCards that utilizes Artificial Intelligence and machine learning to give students with disabilities new ways to interact with their curriculum. This includes the use of hand gestures to allow them to control components of the application. My project is based around creating gesture recognition via python that updates in real time. The goal is to eventually be able to create my own model to use for our application. The gestures that I chose to begin working with are sign language/common gestures as well as the letters ‘c’, ‘s’, and ‘e’.
