@@ -1,0 +1,26 @@
+<annotation>
+	<folder>no</folder>
+	<filename>no.9c6622d5-778a-11ed-a725-8cc681eccf38.jpg</filename>
+	<path>C:\Users\Justin\Documents\Honors Project\RealTimeObjectDetection-main\Tensorflow\workspace\images\collectedimages\no\no.9c6622d5-778a-11ed-a725-8cc681eccf38.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>199</ymin>
+			<xmax>349</xmax>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+</annotation>
